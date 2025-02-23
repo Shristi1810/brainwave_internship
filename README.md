@@ -21,3 +21,8 @@ A Hospital Management System to streamline patient registration, appointments, b
 ✔ Billing and invoicing
 
 📁 File: HospitalManagementSystem.java
+
+<h5>🚀 Contributing</h5>
+Feel free to contribute by suggesting improvements, reporting issues, or adding new features!
+
+📜 Licens
